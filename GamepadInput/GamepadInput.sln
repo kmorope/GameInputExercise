@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamepadInput", "GamepadInput.csproj", "{1C4AE2E4-EC4A-0AF8-2AB2-261ACA55728E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamepadInput.Editor", "GamepadInput.Editor.csproj", "{78B38921-DFA0-3384-1504-C94A804C3100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C4AE2E4-EC4A-0AF8-2AB2-261ACA55728E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4AE2E4-EC4A-0AF8-2AB2-261ACA55728E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4AE2E4-EC4A-0AF8-2AB2-261ACA55728E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C4AE2E4-EC4A-0AF8-2AB2-261ACA55728E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B38921-DFA0-3384-1504-C94A804C3100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B38921-DFA0-3384-1504-C94A804C3100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B38921-DFA0-3384-1504-C94A804C3100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B38921-DFA0-3384-1504-C94A804C3100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
